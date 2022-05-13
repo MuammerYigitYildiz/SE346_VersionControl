@@ -12,4 +12,6 @@ int main()
 
 	printf("Muammer Yiğit Yıldız,18243510062,CMPE\n")
 
+	printf("Muammer Yiğit Yıldız,18243510062,CMPE\n");
+
 }
