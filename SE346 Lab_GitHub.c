@@ -10,10 +10,6 @@ int main()
 
 	printf("Ozge Tekin,987654,SEc");
 
-	printf("Muammer Yiğit Yıldız,18243510062,CMPE\n")
-
-	
-
 	printf("Cenk Bora ERSAHIN,160302023,CMPE\n");
 
 	printf("Baha Yildirim,19243510041,CMPE\n");
