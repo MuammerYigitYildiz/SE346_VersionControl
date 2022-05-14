@@ -18,4 +18,7 @@ int main()
 
 	printf("Ezgi Naz MERT 18243510033 CMPE \n");
 
+    printf("Muammer Yigit Yıldız 18243510062 CMPE \n");
+
+
 }
